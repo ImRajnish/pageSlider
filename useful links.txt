@@ -1,0 +1,2 @@
+swiper source code site= https://swiperjs.com/demos/
+swiper js source code link= https://github.com/nolimits4web/Swiper/blob/master/demos/240-effect-coverflow.html
